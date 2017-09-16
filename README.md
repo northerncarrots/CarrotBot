@@ -1,0 +1,2 @@
+# CarrotBot
+CarrotBot for Discord!
